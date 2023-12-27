@@ -1,0 +1,6 @@
+\#auto_saved_files\#
+*.bak
+*-backups/
+
+.DS_Store
+
