@@ -4,7 +4,8 @@
 - 32k LSE
 - USB C connector (power only - no USB on the F030)
 - Both 3V3 and 3V3A
+- 4-layer board
 
-(Maybe not the most amazing layout.)
+Dimensions: 1.3 x 2.55 in
 
 ![PCB Image](pcb.png)
